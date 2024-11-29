@@ -1,0 +1,1 @@
+console.log("this are basics of javascript");
